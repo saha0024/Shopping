@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.divy {
+    width: 100%;
+    float: left;
+    overflow: auto;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #bfe1f1;
+}
+.divy .pDiv {
+    float: left;
+    width: 8%;
+    text-align: left;
+}
+.divy .inputDiv {
+    float: left;
+    width: 10%;
+    text-align: center;
+}
+h1 { font:  65px/60px Helvetica, Arial,
+    Sans-serif; text-align: center; color: #0174DF; 
+    text-shadow: 0px 2px 6px ; }
+p {font: italic 20px Georgia, Times, Serif;  
+    text-align: center; color: #0174DF;
+     }
+
+body {
+    margin: 0 0 100px;
+    background-color: white;
+}
+footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    height: 50px;
+    width: 100%; 
+    background-color: #0174DF;
+    line-height: 30px;
+    padding: 10px;
+}
+h1{
+    font-size: 35px;
+    color: white;
+}
+#intro {
+    font-size: 15px;
+    color: white;
+
+}
+.head {
+    background-color: #0174DF;
+    padding: 10px;
+/*    width: 100%;*/
+}
+#item {
+    font-size:120%;
+    text-align: center;
+}
+
+#btnAdd {
+    font-size: 15px;
+    padding: 3px;   
+}
+.sticky {
+    text-align: center;
+}
+#foot {
+    color: white;
+}
+
+
